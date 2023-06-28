@@ -1,0 +1,15 @@
+---
+title: "Codebook"
+author: "Ali Hassanzadeh, MD"
+date: "2023-06-28"
+output: html_document
+---
+
+## Codebook
+
+subj : subject ID for 30 subjects.
+
+Accelerometer and gyroscope data (mean and std) for each of them: 
+tBodyAcc-XYZ tGravityAcc-XYZ tBodyAccJerk-XYZ tBodyGyro-XYZ tBodyGyroJerk-XYZ tBodyAccMag tGravityAccMag tBodyAccJerkMag tBodyGyroMag tBodyGyroJerkMag fBodyAcc-XYZ fBodyAccJerk-XYZ fBodyGyro-XYZ fBodyAccMag fBodyAccJerkMag fBodyGyroMag fBodyGyroJerkMag
+
+act_cat: activity category consisting of: 1 WALKING 2 WALKING_UPSTAIRS 3 WALKING_DOWNSTAIRS 4 SITTING 5 STANDING 6 LAYING
